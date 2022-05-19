@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cpi-mock-msg">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../CPI_GROOVY/out/artifacts/cpi_mock_msg/cpi-mock-msg.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

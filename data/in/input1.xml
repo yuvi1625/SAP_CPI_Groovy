@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns1:MT_NA_SalesOrderItem_Pallets xmlns:ns1="urn:pepsico:na:Sybase:SF:41376:OrderPalletItems">
+    <records>
+        <attributes>
+            <type>OrderItem</type>
+            <referenceId>1</referenceId>
+        </attributes>
+        <Product2>
+            <Material_Unique_Id__c>165054</Material_Unique_Id__c>
+        </Product2>
+        <Quantity>0.0000</Quantity>
+        <OrderId>486444809</OrderId>
+        <Sequence__c>1</Sequence__c>
+        <OrderItem>
+            <OrderId>486444809</OrderId>
+        </OrderItem>
+        <PricebookEntry>
+            <External_Id__c>Standard Price Book165054</External_Id__c>
+        </PricebookEntry>
+        <Pallet_Number__c>2</Pallet_Number__c>
+        <Order_Line_Legacy_Id__c>486444809-1-2</Order_Line_Legacy_Id__c>
+        <Item_Type__c>Pallet Item</Item_Type__c>
+    </records>
+</ns1:MT_NA_SalesOrderItem_Pallets>

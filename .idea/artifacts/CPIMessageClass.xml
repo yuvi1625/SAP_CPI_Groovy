@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CPIMessageClass">
+    <output-path>$PROJECT_DIR$/out/artifacts/CPIMessageClass</output-path>
+    <root id="archive" name="CPIMessageClass.jar">
+      <element id="module-output" name="SAP_CPI_Groovy" />
+    </root>
+  </artifact>
+</component>
